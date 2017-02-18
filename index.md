@@ -1,4 +1,4 @@
-AudioHertz <Privacy Policy>
+AudioHertz < Privacy Policy >
 
 What data collected: This app records audio signals from the microphone.
 
